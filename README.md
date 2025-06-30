@@ -27,6 +27,6 @@ Education – Academic background
 
 Contact – Easy-to-use contact form with live effects
 
-📌 check out my portfolio at https://abhinav2-005.github.io/Abhinav-s-final-portfolio/
+📌 check out my portfolio at http://abhina.me/
 
 Portfolio template https://www.figma.com/design/6633bIbNGicww6i1L6Cvm0/Personal-website-%7C-Portfolio--Community-?node-id=585-635&t=D4U7WVr5hBn8NgWq-0
